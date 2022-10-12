@@ -1,3 +1,3 @@
 def myHelper(inpString):
-    result = "Hello again " + inpString
+    result = "Hello world, greetings from " + inpString
     return result
